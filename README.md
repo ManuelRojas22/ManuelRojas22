@@ -41,7 +41,6 @@ Soy un **desarrollador frontend** entusiasta, dedicado a crear experiencias web 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight" alt="Racha de contribuciones"/>
 </p>
 
-
 ---
 
 ## 🏆 Logros Destacados
