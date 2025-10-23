@@ -34,11 +34,11 @@ Soy un **desarrollador frontend** entusiasta, dedicado a crear experiencias web 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-RojasQ&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-RojasQ&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" height="180em"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-RojasQ&theme=tokyonight" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight" alt="Racha de contribuciones"/>
 </p>
 
 
