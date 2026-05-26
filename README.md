@@ -1,63 +1,112 @@
-# 👋 ¡Hola! Soy Manuel Rojas, Desarrollador Frontend
+# Hola, soy Manuel Rojas
 
-Soy un **desarrollador frontend** entusiasta, dedicado a crear experiencias web que no solo sean funcionales, sino también atractivas y accesibles para todos. Mi enfoque combina diseño limpio con código eficiente y bien estructurado para ofrecer interfaces intuitivas y fáciles de usar.
+Desarrollador web enfocado en la creación de aplicaciones modernas utilizando JavaScript, Django y MySQL. Me interesa construir interfaces intuitivas, sistemas backend robustos y soluciones completas que integren frontend, backend y bases de datos.
 
----
-
-## 🚀 Tecnologías y Herramientas
-
-### 🧩 Lenguajes de Programación
-- **JavaScript (JS)** — Dinamismo e interactividad en el navegador  
-- **HTML5** — Estructura semántica y accesible de contenidos  
-- **CSS3** — Diseño responsivo, animaciones y estilos modernos  
-
-### 🗃️ Base de Datos
-- **Modelado de bases de datos relacionales**  
-- **MySQL** — Diseño, consultas y administración de bases de datos  
+Actualmente continúo ampliando mis conocimientos en desarrollo web moderno, optimización de aplicaciones y buenas prácticas de ingeniería de software.
 
 ---
 
-## 🛠️ Habilidades Principales
-- Desarrollo de interfaces web adaptativas y dinámicas  
-- Aplicación de buenas prácticas: semántica, accesibilidad y optimización  
-- Consumo e integración de APIs REST  
-- Gestión y manipulación de datos con MySQL  
-- Uso eficiente de **Git** y **GitHub** para control de versiones y colaboración en equipo  
+## Tecnologías
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+
+- Python
+- Django
+
+### Bases de Datos
+
+- MySQL
+
+### Herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-## 🌱 Actualmente Aprendiendo
-- Frameworks modernos como **React**  
-- Técnicas avanzadas de optimización de rendimiento web  
-- Principios de diseño UI/UX centrados en la experiencia del usuario  
+## Habilidades
 
-## 📊 Estadísticas de GitHub
+- Desarrollo de interfaces responsivas
+- Diseño de experiencias de usuario intuitivas
+- Consumo e integración de APIs REST
+- Desarrollo de aplicaciones con Django
+- Diseño y gestión de bases de datos MySQL
+- Control de versiones con Git
+- Modelado de bases de datos relacionales
+- Validación y gestión de formularios
+- Sistemas de autenticación y autorización
+
+---
+
+## Actualmente Aprendiendo
+
+- React
+- Arquitecturas modernas de frontend
+- Optimización de rendimiento web
+- Diseño UI/UX
+- Buenas prácticas de desarrollo full stack
+
+---
+
+## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&langs_count=8&theme=tokyonight" alt="Lenguajes más usados" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight" alt="Racha de contribuciones"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏆 Logros Destacados
-- 💻 **Repositorios Públicos:** Más de *15* proyectos disponibles  
-- 🔥 **Commits realizados:** Más de *1,200* contribuciones en el último año  
-- 🌐 **Proyectos destacados:** Aplicaciones web responsivas con integración a MySQL  
-- 🤝 **Colaboraciones:** Participación activa en proyectos open source  
+## Proyectos Destacados
+
+### Sistema de Autenticación con Django y MySQL
+
+Aplicación web desarrollada con Django que implementa:
+
+- Registro de usuarios
+- Inicio de sesión
+- Recuperación de contraseña
+- Actualización de credenciales
+- Integración con MySQL
+- Gestión de sesiones mediante Django Authentication
+
+### Desarrollo Frontend
+
+Proyectos enfocados en:
+
+- Interfaces responsivas
+- Formularios interactivos
+- Integración con APIs
+- Diseño adaptable para múltiples dispositivos
 
 ---
 
-## 📫 Contacto
+## Objetivos
 
-📧 **Email:** [manuelalejandro.rojasquintero@gmail.com](mailto:manuelalejandro.rojasquintero@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/manuelrojasq](https://linkedin.com/in/manuelrojasq)  
-🌐 **Portafolio:** [manuelrojasq.dev](https://manuelrojasq.dev)  
+- Seguir desarrollando aplicaciones full stack.
+- Profundizar en React y ecosistemas modernos de JavaScript.
+- Mejorar conocimientos en arquitectura de software.
+- Construir proyectos escalables y mantenibles.
 
 ---
 
-> “El código limpio no solo funciona, también es fácil de leer y mantener.”  
-> – Manuel Rojas
+GitHub:
+https://github.com/ManuelRojas22
+
+---
+
+> "El aprendizaje constante es una de las herramientas más importantes para un desarrollador."
