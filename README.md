@@ -1,112 +1,102 @@
-# Hola, soy Manuel Rojas
+<h1 align="center">Hola, soy Manuel Rojas</h1>
 
-Desarrollador web enfocado en la creación de aplicaciones modernas utilizando JavaScript, Django y MySQL. Me interesa construir interfaces intuitivas, sistemas backend robustos y soluciones completas que integren frontend, backend y bases de datos.
+<h3 align="center">
+Desarrollador Web apasionado por crear aplicaciones modernas, intuitivas y funcionales.
+</h3>
 
-Actualmente continúo ampliando mis conocimientos en desarrollo web moderno, optimización de aplicaciones y buenas prácticas de ingeniería de software.
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Django+Developer;MySQL+Enthusiast;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
+
+---
+
+## Sobre mí
+
+- Desarrollo aplicaciones web modernas.
+- Experiencia con HTML, CSS, JavaScript, Django y MySQL.
+- Interés en el desarrollo Full Stack.
+- En constante aprendizaje de nuevas tecnologías.
+- Actualmente profundizando en React y arquitecturas modernas de frontend.
 
 ---
 
 ## Tecnologías
 
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Backend
-
-- Python
-- Django
-
-### Bases de Datos
-
-- MySQL
-
-### Herramientas
-
-- Git
-- GitHub
-- Visual Studio Code
-
----
-
-## Habilidades
-
-- Desarrollo de interfaces responsivas
-- Diseño de experiencias de usuario intuitivas
-- Consumo e integración de APIs REST
-- Desarrollo de aplicaciones con Django
-- Diseño y gestión de bases de datos MySQL
-- Control de versiones con Git
-- Modelado de bases de datos relacionales
-- Validación y gestión de formularios
-- Sistemas de autenticación y autorización
-
----
-
-## Actualmente Aprendiendo
-
-- React
-- Arquitecturas modernas de frontend
-- Optimización de rendimiento web
-- Diseño UI/UX
-- Buenas prácticas de desarrollo full stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github,vscode" />
+</p>
 
 ---
 
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Proyectos Destacados
+## Tecnologías que Utilizo
 
-### Sistema de Autenticación con Django y MySQL
+| Categoría | Tecnologías |
+|------------|-------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend | Python, Django |
+| Bases de Datos | MySQL |
+| Herramientas | Git, GitHub, VS Code |
 
-Aplicación web desarrollada con Django que implementa:
+---
 
-- Registro de usuarios
-- Inicio de sesión
-- Recuperación de contraseña
-- Actualización de credenciales
-- Integración con MySQL
-- Gestión de sesiones mediante Django Authentication
+## Actualmente Aprendiendo
 
-### Desarrollo Frontend
+```text
+React
+Optimización Web
+Diseño UI/UX
+Buenas Prácticas Full Stack
+```
 
-Proyectos enfocados en:
+---
 
-- Interfaces responsivas
-- Formularios interactivos
-- Integración con APIs
-- Diseño adaptable para múltiples dispositivos
+## Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelRojas22&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 ## Objetivos
 
-- Seguir desarrollando aplicaciones full stack.
-- Profundizar en React y ecosistemas modernos de JavaScript.
-- Mejorar conocimientos en arquitectura de software.
-- Construir proyectos escalables y mantenibles.
+- Construir aplicaciones web completas.
+- Mejorar mis habilidades Full Stack.
+- Aprender nuevas tecnologías del ecosistema JavaScript.
+- Crear proyectos escalables y mantenibles.
 
 ---
 
-GitHub:
-https://github.com/ManuelRojas22
+## Contacto
+
+<p align="center">
+  <a href="mailto:manuelalejandro.rojasquintero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge">
+  </a>
+
+  <a href="https://github.com/ManuelRojas22">
+    <img src="https://img.shields.io/badge/GitHub-ManuelRojas22-black?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-> "El aprendizaje constante es una de las herramientas más importantes para un desarrollador."
+<p align="center">
+  <i>"El aprendizaje constante es la mejor herramienta de un desarrollador."</i>
+</p>
