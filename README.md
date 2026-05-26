@@ -49,7 +49,7 @@ Desarrollador Web apasionado por crear aplicaciones modernas, intuitivas y funci
 | Categoría | Tecnologías |
 |------------|-------------|
 | Frontend | HTML5, CSS3, JavaScript |
-| Backend | Python, Django |
+| Backend | Python, Django, flask |
 | Bases de Datos | MySQL |
 | Herramientas | Git, GitHub, VS Code |
 
