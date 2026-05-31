@@ -15,7 +15,7 @@ Desarrollador Web apasionado por crear aplicaciones modernas, intuitivas y funci
 ## Sobre mí
 
 - Desarrollo aplicaciones web modernas.
-- Experiencia con HTML, CSS, JavaScript, Django y MySQL.
+- Experiencia con HTML, CSS, JavaScript, Django, Flask y MySQL.
 - Interés en el desarrollo Full Stack.
 - En constante aprendizaje de nuevas tecnologías.
 - Actualmente profundizando en React y arquitecturas modernas de frontend.
