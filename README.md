@@ -11,10 +11,15 @@
 
 ## Sobre mí
 
-- 🛠️ Construyo aplicaciones web completas con **Django**, **Flask** y **MySQL**.
-- 🎨 Creo interfaces responsivas con **HTML5**, **CSS3** y **JavaScript vanilla** — sin depender de frameworks pesados.
-- 🔐 Experiencia en sistemas de autenticación: login, registro, recuperación de contraseña con tokens UUID.
-- 🌍 Apasionado por proyectos con impacto real: plataformas cívicas, educativas y de salud.
+Soy Manuel Rojas, desarrollador web Full Stack con sede en **Medellín, Colombia**. Me apasiona construir aplicaciones que resuelvan problemas reales: desde sistemas de autenticación robustos hasta dashboards de datos urbanos en tiempo real para mi ciudad.
+
+Mi enfoque está en el backend con **Python y Django**, pero disfruto igual el lado del frontend: construyo interfaces limpias, responsivas y bien animadas con **CSS puro**, sin depender innecesariamente de librerías. Creo que entender los fundamentos hace mejores desarrolladores.
+
+- 🛠️ Construyo aplicaciones completas con **Django 6**, **Flask** y **MySQL 8**.
+- 🎨 Interfaces responsivas en **CSS3** puro — Flexbox, custom properties, animaciones sin JS.
+- 🔐 Implementé autenticación completa desde cero: login, registro, cambio y recuperación de contraseña con tokens UUID.
+- 🌆 Trabajo en proyectos con impacto real para Medellín: movilidad urbana, salud digital, educación.
+- 📡 Integro APIs externas: TomTom Traffic, Google Gemini, OpenStreetMap/Nominatim, ArcGIS.
 - 📚 Actualmente profundizando en **React** y arquitecturas modernas de frontend.
 
 ---
@@ -35,27 +40,89 @@
 | Backend        | Python 3.14, Django 6, Flask                             |
 | Base de datos  | MySQL 8+ (vistas, triggers, esquemas SQL manuales)       |
 | Autenticación  | Django Auth, tokens UUID, formularios personalizados     |
-| Herramientas   | Git, GitHub, VS Code, Google Fonts, mysqlclient          |
+| APIs externas  | TomTom Traffic v5, Google Gemini, Nominatim, ArcGIS      |
+| Herramientas   | Git, GitHub, VS Code, mysqlclient, python-dotenv         |
 
 ---
 
 ## Proyectos destacados
 
 ### 🔐 [Auth — Sistema de autenticación Django](https://github.com/ManuelRojas22/auth)
-Sistema completo de autenticación con **Django 6 + MySQL**. Incluye login, registro, cambio y recuperación de contraseña mediante tokens UUID. Diseño SAAS responsivo en modo claro, **sin ninguna dependencia de JavaScript**.
 
-- 6 vistas, 5 formularios, 7 rutas
-- Triggers MySQL para normalización de datos
-- Vistas SQL: `vw_active_users`, `vw_valid_reset_tokens`
-- Animaciones CSS puras (20 objetos flotantes, trayectorias independientes)
-- Stack: `Python 3.14 · Django 6.0.5 · MySQL 8 · CSS3`
+Sistema completo de autenticación con **Django 6 + MySQL**. Diseño SAAS responsivo en modo claro, **sin ninguna dependencia de JavaScript**. Incluye login, registro, cambio de contraseña y recuperación por email con tokens UUID seguros.
+
+**Características principales:**
+- 6 vistas · 5 formularios personalizados · 7 rutas
+- Recuperación de contraseña con tokens UUID + expiración automática
+- Triggers MySQL para normalización de datos al insertar usuarios
+- Vistas SQL reutilizables: `vw_active_users`, `vw_valid_reset_tokens`
+- 20 objetos flotantes animados en CSS puro, con trayectorias y duraciones independientes
+- Stack: `Python 3.14 · Django 6.0.5 · MySQL 8 · CSS3 · mysqlclient`
+
+**Estructura del proyecto:**
+```
+auth/
+├── auth_project/           # Configuración principal Django
+│   ├── settings.py         # Config DB, email, apps instaladas
+│   ├── urls.py             # Enrutamiento raíz
+│   └── wsgi.py
+├── accounts/               # App principal de autenticación
+│   ├── models.py           # Modelo de token de recuperación (UUID)
+│   ├── forms.py            # LoginForm, RegisterForm, PasswordForms...
+│   ├── views.py            # login, register, change_password, reset_password...
+│   ├── urls.py             # 7 rutas de autenticación
+│   └── templates/
+│       └── accounts/
+│           ├── login.html
+│           ├── register.html
+│           ├── change_password.html
+│           ├── reset_password.html
+│           └── reset_password_confirm.html
+├── static/
+│   └── css/
+│       └── auth.css        # Animaciones CSS puras, diseño SAAS
+├── sql/
+│   ├── triggers.sql        # Triggers de normalización MySQL
+│   └── views.sql           # vw_active_users, vw_valid_reset_tokens
+├── requirements.txt
+└── manage.py
+```
 
 ---
 
 ### 🧠 [PsyAI Connect](https://github.com/ArleyRojo/PsyAI-Connect) *(colaboración)*
-Plataforma de chatbot de psicología impulsada por **Google Gemini** con rotación automática de API keys, backend MySQL y setup automatizado.
 
-- Stack: `Flask · Python · MySQL · Google Gemini API`
+Plataforma de chatbot de psicología impulsada por **Google Gemini**, con backend MySQL/XAMPP. Desarrollada como colaboración con foco en backend, integración de IA y resiliencia de API keys.
+
+**Características principales:**
+- Chat conversacional con contexto psicológico usando `gemini-2.5-flash-lite`
+- Rotación automática de API keys para evitar agotamiento de cuota gratuita
+- Variable de entorno `GEMINI_API_KEYS` con múltiples claves separadas por coma
+- Script `setup_install.py` para instalación automatizada con credenciales pre-llenadas
+- Backend MySQL con sesiones de usuario y historial de conversaciones
+- Stack: `Flask · Python · MySQL · Google Gemini API · XAMPP`
+
+**Estructura del proyecto:**
+```
+PsyAI-Connect/
+├── app/
+│   ├── __init__.py
+│   ├── routes.py               # Rutas Flask: chat, login, registro
+│   ├── models.py               # Modelos de usuario y sesión MySQL
+│   └── services/
+│       └── chatbot_service.py  # Lógica Gemini + rotación de API keys
+├── templates/
+│   ├── index.html              # Interfaz del chat
+│   ├── login.html
+│   └── register.html
+├── static/
+│   ├── css/
+│   └── js/
+├── config.py                   # Variables de entorno, config DB
+├── setup_install.py            # Instalación automatizada
+├── requirements.txt
+└── run.py
+```
 
 ---
 
@@ -83,6 +150,7 @@ Plataforma de chatbot de psicología impulsada por **Google Gemini** con rotaci�
 🎨  Diseño UI/UX — sistemas de diseño, accesibilidad
 ⚡  Optimización Web — performance, lazy loading, Core Web Vitals
 🏗️  Buenas prácticas Full Stack — arquitectura limpia, escalabilidad
+🚀  Despliegue — Railway, Render, configuración de producción Django
 ```
 
 ---
@@ -90,7 +158,7 @@ Plataforma de chatbot de psicología impulsada por **Google Gemini** con rotaci�
 ## Objetivos
 
 - Desplegar aplicaciones Django en producción (Railway, Render, VPS).
-- Construir un dashboard con React + API Django REST.
+- Construir un dashboard con React + Django REST Framework.
 - Contribuir a proyectos open source relacionados con educación y ciudades inteligentes.
 - Crear proyectos escalables y mantenibles con código limpio.
 
