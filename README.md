@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Soy Manuel Rojas, desarrollador web Full Stack con sede en **Medellín, Colombia**. Me apasiona construir aplicaciones que resuelvan problemas reales: desde sistemas de autenticación robustos hasta dashboards de datos urbanos en tiempo real para mi ciudad.
+Soy Manuel Rojas, desarrollador web Full Stack. Me apasiona construir aplicaciones que resuelvan problemas reales: desde sistemas de autenticación robustos hasta dashboards de datos urbanos en tiempo real para mi ciudad.
 
 Mi enfoque está en el backend con **Python y Django**, pero disfruto igual el lado del frontend: construyo interfaces limpias, responsivas y bien animadas con **CSS puro**, sin depender innecesariamente de librerías. Creo que entender los fundamentos hace mejores desarrolladores.
 
