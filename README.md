@@ -1,183 +1,59 @@
-<h1 align="center">Hola, soy Manuel Rojas 👋</h1>
-<h3 align="center">Desarrollador Web Full Stack · Django · Python · MySQL · Medellín, Colombia</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Manuel%20Rojas&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Desarrollador%20Full-Stack%20%C2%B7%20Python%20%26%20Web&descAlignY=60&descSize=18" alt="Encabezado" />
+
+<a href="https://github.com/ManuelRojas22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=520&lines=Estudiante+de+ADSO+%40+SENA;Construyo+plataformas+web+multi-rol;Flask+%C2%B7+Django+%C2%B7+MySQL" alt="Typing SVG" />
+</a>
+
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Django+%26+Python+Developer;Full+Stack+Web+Developer;MySQL+%26+Database+Design;CSS+%26+Responsive+UI+Enthusiast;Siempre+aprendiendo+nuevas+tecnologías" />
-</p>
+## 👋 Sobre mí
 
----
+Soy estudiante de **Análisis y Desarrollo de Software (SENA)** en Medellín, Colombia. Me enfoco en desarrollar aplicaciones web completas: backend sólido, roles y permisos, integración con APIs externas e interfaces responsive y cuidadas.
 
-## Sobre mí
+<br>
 
-Soy Manuel Rojas, desarrollador web Full Stack. Me apasiona construir aplicaciones que resuelvan problemas reales: desde sistemas de autenticación robustos hasta dashboards de datos urbanos en tiempo real para mi ciudad.
+## 🛠️ Stack
 
-Mi enfoque está en el backend con **Python y Django**, pero disfruto igual el lado del frontend: construyo interfaces limpias, responsivas y bien animadas con **CSS puro**, sin depender innecesariamente de librerías. Creo que entender los fundamentos hace mejores desarrolladores.
+<div align="center">
 
-- 🛠️ Construyo aplicaciones completas con **Django 6**, **Flask** y **MySQL 8**.
-- 🎨 Interfaces responsivas en **CSS3** puro — Flexbox, custom properties, animaciones sin JS.
-- 🔐 Implementé autenticación completa desde cero: login, registro, cambio y recuperación de contraseña con tokens UUID.
-- 🌆 Trabajo en proyectos con impacto real para Medellín: movilidad urbana, salud digital, educación.
-- 📡 Integro APIs externas: TomTom Traffic, Google Gemini, OpenStreetMap/Nominatim, ArcGIS.
-- 📚 Actualmente profundizando en **React** y arquitecturas modernas de frontend.
+<img src="https://skillicons.dev/icons?i=python,flask,django,mysql,html,css,js,git,github,vscode&perline=10" alt="Tecnologías" />
 
----
+</div>
 
-## Tecnologías
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flask,mysql,git,github,vscode" />
-</p>
+## 🚀 Proyectos destacados
 
----
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🧠 **[PsyAI Connect](https://github.com/ManuelRojas22/PsyAI-Connect)** | Plataforma SaaS de bienestar mental con múltiples roles y panel por usuario. | Flask · MySQL · JS |
+| 🚦 **[MoviliData](https://github.com/ManuelRojas22/MoviliData)** | Plataforma de monitoreo de tráfico y movilidad en Medellín. | Django · APIs · MariaDB |
+| 🏋️ **[Fitness Plus](https://github.com/ManuelRojas22/Fitness-Plus)** | Sistema de gestión para gimnasios con enfoque en POO. | Python · MySQL |
 
-## Stack que domino
+<br>
 
-| Capa           | Tecnologías                                              |
-|----------------|----------------------------------------------------------|
-| Frontend       | HTML5, CSS3 (Flexbox, custom properties, animaciones), JavaScript |
-| Backend        | Python 3.14, Django 6, Flask                             |
-| Base de datos  | MySQL 8+ (vistas, triggers, esquemas SQL manuales)       |
-| Autenticación  | Django Auth, tokens UUID, formularios personalizados     |
-| APIs externas  | TomTom Traffic v5, Google Gemini, Nominatim, ArcGIS      |
-| Herramientas   | Git, GitHub, VS Code, mysqlclient, python-dotenv         |
+## 📊 GitHub
 
----
+<div align="center">
 
-## Proyectos destacados
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estadísticas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
 
-### 🔐 [Auth — Sistema de autenticación Django](https://github.com/ManuelRojas22/auth)
+</div>
 
-Sistema completo de autenticación con **Django 6 + MySQL**. Diseño SAAS responsivo en modo claro, **sin ninguna dependencia de JavaScript**. Incluye login, registro, cambio de contraseña y recuperación por email con tokens UUID seguros.
+<br>
 
-**Características principales:**
-- 6 vistas · 5 formularios personalizados · 7 rutas
-- Recuperación de contraseña con tokens UUID + expiración automática
-- Triggers MySQL para normalización de datos al insertar usuarios
-- Vistas SQL reutilizables: `vw_active_users`, `vw_valid_reset_tokens`
-- 20 objetos flotantes animados en CSS puro, con trayectorias y duraciones independientes
-- Stack: `Python 3.14 · Django 6.0.5 · MySQL 8 · CSS3 · mysqlclient`
+## 📫 Contacto
 
-**Estructura del proyecto:**
-```
-auth/
-├── auth_project/           # Configuración principal Django
-│   ├── settings.py         # Config DB, email, apps instaladas
-│   ├── urls.py             # Enrutamiento raíz
-│   └── wsgi.py
-├── accounts/               # App principal de autenticación
-│   ├── models.py           # Modelo de token de recuperación (UUID)
-│   ├── forms.py            # LoginForm, RegisterForm, PasswordForms...
-│   ├── views.py            # login, register, change_password, reset_password...
-│   ├── urls.py             # 7 rutas de autenticación
-│   └── templates/
-│       └── accounts/
-│           ├── login.html
-│           ├── register.html
-│           ├── change_password.html
-│           ├── reset_password.html
-│           └── reset_password_confirm.html
-├── static/
-│   └── css/
-│       └── auth.css        # Animaciones CSS puras, diseño SAAS
-├── sql/
-│   ├── triggers.sql        # Triggers de normalización MySQL
-│   └── views.sql           # vw_active_users, vw_valid_reset_tokens
-├── requirements.txt
-└── manage.py
-```
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-### 🧠 [PsyAI Connect](https://github.com/ArleyRojo/PsyAI-Connect) *(colaboración)*
+</div>
 
-Plataforma de chatbot de psicología impulsada por **Google Gemini**, con backend MySQL/XAMPP. Desarrollada como colaboración con foco en backend, integración de IA y resiliencia de API keys.
-
-**Características principales:**
-- Chat conversacional con contexto psicológico usando `gemini-2.5-flash-lite`
-- Rotación automática de API keys para evitar agotamiento de cuota gratuita
-- Variable de entorno `GEMINI_API_KEYS` con múltiples claves separadas por coma
-- Script `setup_install.py` para instalación automatizada con credenciales pre-llenadas
-- Backend MySQL con sesiones de usuario y historial de conversaciones
-- Stack: `Flask · Python · MySQL · Google Gemini API · XAMPP`
-
-**Estructura del proyecto:**
-```
-PsyAI-Connect/
-├── app/
-│   ├── __init__.py
-│   ├── routes.py               # Rutas Flask: chat, login, registro
-│   ├── models.py               # Modelos de usuario y sesión MySQL
-│   └── services/
-│       └── chatbot_service.py  # Lógica Gemini + rotación de API keys
-├── templates/
-│   ├── index.html              # Interfaz del chat
-│   ├── login.html
-│   └── register.html
-├── static/
-│   ├── css/
-│   └── js/
-├── config.py                   # Variables de entorno, config DB
-├── setup_install.py            # Instalación automatizada
-├── requirements.txt
-└── run.py
-```
-
----
-
-## Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuelRojas22&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelRojas22&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelRojas22&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuelRojas22&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## Actualmente aprendiendo
-
-```text
-⚛️  React — componentes, hooks, estado global
-🎨  Diseño UI/UX — sistemas de diseño, accesibilidad
-⚡  Optimización Web — performance, lazy loading, Core Web Vitals
-🏗️  Buenas prácticas Full Stack — arquitectura limpia, escalabilidad
-🚀  Despliegue — Railway, Render, configuración de producción Django
-```
-
----
-
-## Objetivos
-
-- Desplegar aplicaciones Django en producción (Railway, Render, VPS).
-- Construir un dashboard con React + Django REST Framework.
-- Contribuir a proyectos open source relacionados con educación y ciudades inteligentes.
-- Crear proyectos escalables y mantenibles con código limpio.
-
----
-
-## Contacto
-
-<p align="center">
-  <a href="mailto:manuelalejandro.rojasquintero@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-manuelalejandro.rojasquintero-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/ManuelRojas22">
-    <img src="https://img.shields.io/badge/GitHub-ManuelRojas22-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"El aprendizaje constante es la mejor herramienta de un desarrollador."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Pie" width="100%" />
