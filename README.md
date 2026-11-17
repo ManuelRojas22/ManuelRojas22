@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Manuel Rojas · Full Stack Developer in Training" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,50:B5179E,100:7C4DFF&height=240&section=header&text=Manuel%20Rojas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Training&descSize=20&descAlignY=60" width="100%" />
 
 <a href="https://github.com/ManuelRojas22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF1744&center=true&vCenter=true&width=720&height=50&lines=%3E+Hola%2C+soy+Manuel+%F0%9F%91%8B;%3E+Desarrollador+Web+en+formaci%C3%B3n+%F0%9F%92%BB;%3E+Hi%2C+I'm+Manuel+%F0%9F%91%8B;%3E+Learning+by+building+%F0%9F%9A%80;%3E+while(alive)+%7B+learn()%3B+build()%3B+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=FF1744&center=true&vCenter=true&width=700&height=60&lines=%3E+Hola%2C+soy+Manuel+%F0%9F%91%8B;%3E+Desarrollador+Web+en+formaci%C3%B3n+%F0%9F%92%BB;%3E+Hi%2C+I'm+Manuel+%F0%9F%91%8B;%3E+Learning+by+building+%F0%9F%9A%80;%3E+while(alive)+%7B+learn()%3B+build()%3B+%7D" alt="Typing SVG" />
 </a>
 
 <br>
@@ -17,17 +17,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 🖥️ `terminal`
-
-<div align="center">
-
-<img src="./assets/terminal.svg" alt="Animated terminal" width="820" />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧬 `whoami`
 
@@ -71,7 +61,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -83,7 +73,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 En qué estoy trabajando / What I'm Working On
 
@@ -99,7 +89,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Mi forma de aprender / How I Learn
 
@@ -124,7 +114,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 >
 > 🇺🇸 I believe one of the best ways to learn programming is by **building real things, making mistakes, researching solutions and understanding how they work**.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Objetivos / Goals
 
@@ -142,7 +132,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Activity
 
@@ -161,21 +151,7 @@ I'm strengthening my skills through practical projects and continuous learning.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelRojas22/ManuelRojas22/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelRojas22/ManuelRojas22/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/ManuelRojas22/ManuelRojas22/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 Contact
 
